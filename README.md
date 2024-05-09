@@ -1,2 +1,4 @@
-# test
-my first repo
+# Readme
+My first repo
+
+This is my first repo
